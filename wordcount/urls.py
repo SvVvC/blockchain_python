@@ -18,6 +18,7 @@ from django.urls import path
 from . import views
 urlpatterns = [
     path('', views.homepage),
-    path('countthewordslol/', views.count, name = 'count'),
+    path('count/', views.count, name = 'count'),
+    path('current_blockchain/', views.count, name='current_blockchain'),
 
 ]
