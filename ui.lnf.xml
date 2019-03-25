@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
+    <option name="SORT_BOOKMARKS" value="true" />
   </component>
 </application>
